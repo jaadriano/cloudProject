@@ -1,0 +1,14 @@
+{
+  "name": "sqldatabase",
+  "version": "1.0.0",
+  "description": "Database Management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Adriano",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
+}
